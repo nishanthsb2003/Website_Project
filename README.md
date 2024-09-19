@@ -1,2 +1,2 @@
 # Website_Project
-"Web Development Project: Demonstrating Proficiency in HTML and CSS Fundamentals"
+"Personal Website Project: Implementing Essential HTML and CSS Concepts for a Structured and Engaging User Experience"
